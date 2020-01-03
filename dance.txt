@@ -1,2 +1,5 @@
 here is a dance to be pushed into a
 gitHub repo
+step left
+2 steps right
+jump up twice
